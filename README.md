@@ -15,7 +15,7 @@
 * Recommendations on the basis of Univariate and Bivariate Analysis
 
 
-## General Information
+## Business Objective
 - The data given contains information about past loan applicants and whether they ‘defaulted’ or not.
 - The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. through Exploratory Data Analysis (EDA) . Thus, we have to understand how consumer attributes and loan attributes influence the tendency of default.
 - When a person applies for a loan, there are two types of decisions that could be taken by the company:
